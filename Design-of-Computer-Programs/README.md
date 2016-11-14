@@ -1,0 +1,5 @@
+- winning poker hand
+- zebra puzzle
+- search algorithm
+- the game of Pig
+- word game
